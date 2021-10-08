@@ -34,6 +34,8 @@ The rules are generally similar to the native Windows game.
 ![Game](docs/Lose.jpg)
 
 Version 1.0
+
 **Technologies and principles used**
+
 * OOP, Java, Swing
 
