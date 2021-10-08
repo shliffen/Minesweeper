@@ -35,5 +35,5 @@ The rules are generally similar to the native Windows game.
 
 Version 1.0
 **Technologies and principles used**
-* Java + Swing + OOP
+* OOP, Java, Swing
 
