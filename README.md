@@ -1,5 +1,5 @@
 # Minesweeper Windows Application
-A simple Windows-game "Minesweeper" wrote on Java
+A sample Windows-game "Minesweeper" wrote on Java
 
 **How to run?**
 You can run it from the dist folder - by running "minesweeper.exe" or "minesweeper.jar" file - both of them works without anything else. Just run by clicking mouse.
